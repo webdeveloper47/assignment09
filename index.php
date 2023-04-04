@@ -24,7 +24,6 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="stylesheet" href="style.css">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
@@ -82,7 +81,7 @@
                         <strong>
 </strong><div><strong><br></strong></div><div><strong>Hi, I'm Toufiq Hasan Miraj and I'm a full stack Developer</strong></div></h1>
                     <p class="mbr-text mbr-fonts-style display-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada non magna eget mollis. Quisque vehicula, lorem quis sollicitudin mollis, elit enim aliquet lorem.&nbsp;</p>
-                    <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-7" href="index.html#gallery5-3">My Features</a> <a class="btn btn-secondary display-7" href="index.html#form4-6">Contacts</a></div>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-7" href="index.php#gallery5-3">My Features</a> <a class="btn btn-secondary display-7" href="index.php#form4-6">Contacts</a></div>
                 </div>
             </div>
         </div>
